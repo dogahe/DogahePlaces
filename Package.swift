@@ -23,7 +23,7 @@ let package = Package(
             dependencies: [.target(name: "GooglePlaces")],
             path: "GooglePlacesTarget"
         ),
-        .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlaces_3p.zip", checksum: "c16e1df42f21228783a13a06e008888322f4f317d1ae0dec54f0d029172138f2"),
+        .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlaces_3p.xcframework.zip", checksum: "c16e1df42f21228783a13a06e008888322f4f317d1ae0dec54f0d029172138f2"),
     ]
 )
 
