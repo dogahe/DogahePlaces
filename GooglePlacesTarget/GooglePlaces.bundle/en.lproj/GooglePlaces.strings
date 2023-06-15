@@ -1,0 +1,303 @@
+/* Text displayed when an error occurred when fetching autocomplete results. (50 chars.) */
+"PlaceAutocompleteCantLoadResults" = "Can't load search results";
+
+/* Text displayed when there are no autocomplete suggestions for the user-entered text. (50 chars.) */
+"PlaceAutocompleteLocationUnrecognized" = "We didn't recognize that location";
+
+/* Placeholder text displayed in the Autocomplete search bar when no text has been entered. (50 chars.) */
+"PlaceAutocompleteSearchBarPlaceholder" = "Search";
+
+/* Button title text for manually retrying an autocomplete lookup that has timed out. (20 chars.) */
+"PlaceAutocompleteTryAgainButtonLabel" = "Try again";
+
+/* String representing the "accounting" place type. (50 chars.) */
+"PlaceTypeAccounting" = "Accounting";
+
+/* String representing the "airport" place type. (50 chars.) */
+"PlaceTypeAirport" = "Airport";
+
+/* String representing the "amusement_park" place type. (50 chars.) */
+"PlaceTypeAmusementPark" = "Amusement Park";
+
+/* String representing the "aquarium" place type. (50 chars.) */
+"PlaceTypeAquarium" = "Aquarium";
+
+/* String representing the "art_gallery" place type. (50 chars.) */
+"PlaceTypeArtGallery" = "Art Gallery";
+
+/* String representing the "atm" place type. (50 chars.) */
+"PlaceTypeAtm" = "Atm";
+
+/* String representing the "bakery" place type. (50 chars.) */
+"PlaceTypeBakery" = "Bakery";
+
+/* String representing the "bank" place type. (50 chars.) */
+"PlaceTypeBank" = "Bank";
+
+/* String representing the "bar" place type. (50 chars.) */
+"PlaceTypeBar" = "Bar";
+
+/* String representing the "beauty_salon" place type. (50 chars.) */
+"PlaceTypeBeautySalon" = "Beauty Salon";
+
+/* String representing the "bicycle_store" place type. (50 chars.) */
+"PlaceTypeBicycleStore" = "Bicycle Store";
+
+/* String representing the "book_store" place type. (50 chars.) */
+"PlaceTypeBookStore" = "Book Store";
+
+/* String representing the "bowling_alley" place type. (50 chars.) */
+"PlaceTypeBowlingAlley" = "Bowling Alley";
+
+/* String representing the "bus_station" place type. (50 chars.) */
+"PlaceTypeBusStation" = "Bus Station";
+
+/* String representing the "cafe" place type. (50 chars.) */
+"PlaceTypeCafe" = "Cafe";
+
+/* String representing the "campground" place type. (50 chars.) */
+"PlaceTypeCampground" = "Campground";
+
+/* String representing the "car_dealer" place type. (50 chars.) */
+"PlaceTypeCarDealer" = "Car Dealer";
+
+/* String representing the "car_rental" place type. (50 chars.) */
+"PlaceTypeCarRental" = "Car Rental";
+
+/* String representing the "car_repair" place type. (50 chars.) */
+"PlaceTypeCarRepair" = "Car Repair";
+
+/* String representing the "car_wash" place type. (50 chars.) */
+"PlaceTypeCarWash" = "Car Wash";
+
+/* String representing the "casino" place type. (50 chars.) */
+"PlaceTypeCasino" = "Casino";
+
+/* String representing the "cemetery" place type. (50 chars.) */
+"PlaceTypeCemetery" = "Cemetery";
+
+/* String representing the "church" place type. (50 chars.) */
+"PlaceTypeChurch" = "Church";
+
+/* String representing the "city_hall" place type. (50 chars.) */
+"PlaceTypeCityHall" = "City Hall";
+
+/* String representing the "clothing_store" place type. (50 chars.) */
+"PlaceTypeClothingStore" = "Clothing Store";
+
+/* String representing the "convenience_store" place type. (50 chars.) */
+"PlaceTypeConvenienceStore" = "Convenience Store";
+
+/* String representing the "courthouse" place type. (50 chars.) */
+"PlaceTypeCourthouse" = "Courthouse";
+
+/* String representing the "dentist" place type. (50 chars.) */
+"PlaceTypeDentist" = "Dentist";
+
+/* String representing the "department_store" place type. (50 chars.) */
+"PlaceTypeDepartmentStore" = "Department Store";
+
+/* String representing the "doctor" place type. (50 chars.) */
+"PlaceTypeDoctor" = "Doctor";
+
+/* String representing the "drugstore" place type. (50 chars.) */
+"PlaceTypeDrugstore" = "Drugstore";
+
+/* String representing the "electrician" place type. (50 chars.) */
+"PlaceTypeElectrician" = "Electrician";
+
+/* String representing the "electronics_store" place type. (50 chars.) */
+"PlaceTypeElectronicsStore" = "Electronics Store";
+
+/* String representing the "embassy" place type. (50 chars.) */
+"PlaceTypeEmbassy" = "Embassy";
+
+/* String representing the "fire_station" place type. (50 chars.) */
+"PlaceTypeFireStation" = "Fire Station";
+
+/* String representing the "florist" place type. (50 chars.) */
+"PlaceTypeFlorist" = "Florist";
+
+/* String representing the "funeral_home" place type. (50 chars.) */
+"PlaceTypeFuneralHome" = "Funeral Home";
+
+/* String representing the "furniture_store" place type. (50 chars.) */
+"PlaceTypeFurnitureStore" = "Furniture Store";
+
+/* String representing the "gas_station" place type. (50 chars.) */
+"PlaceTypeGasStation" = "Gas Station";
+
+/* String representing the "grocery_or_supermarket" place type. (50 chars.) */
+"PlaceTypeGroceryOrSupermarket" = "Grocery or Supermarket";
+
+/* String representing the "gym" place type. (50 chars.) */
+"PlaceTypeGym" = "Gym";
+
+/* String representing the "hair_care" place type. (50 chars.) */
+"PlaceTypeHairCare" = "Hair Care";
+
+/* String representing the "hardware_store" place type. (50 chars.) */
+"PlaceTypeHardwareStore" = "Hardware Store";
+
+/* String representing the "hindu_temple" place type. (50 chars.) */
+"PlaceTypeHinduTemple" = "Hindu Temple";
+
+/* String representing the "home_goods_store" place type. (50 chars.) */
+"PlaceTypeHomeGoodsStore" = "Home Goods Store";
+
+/* String representing the "hospital" place type. (50 chars.) */
+"PlaceTypeHospital" = "Hospital";
+
+/* String representing the "insurance_agency" place type. (50 chars.) */
+"PlaceTypeInsuranceAgency" = "Insurance Agency";
+
+/* String representing the "jewelry_store" place type. (50 chars.) */
+"PlaceTypeJewelryStore" = "Jewelry Store";
+
+/* String representing the "laundry" place type. (50 chars.) */
+"PlaceTypeLaundry" = "Laundry";
+
+/* String representing the "lawyer" place type. (50 chars.) */
+"PlaceTypeLawyer" = "Lawyer";
+
+/* String representing the "library" place type. (50 chars.) */
+"PlaceTypeLibrary" = "Library";
+
+/* String representing the "light_rail_station" place type. (50 chars.) */
+"PlaceTypeLightRailStation" = "Light Rail Station";
+
+/* String representing the "liquor_store" place type. (50 chars.) */
+"PlaceTypeLiquorStore" = "Liquor Store";
+
+/* String representing the "local_government_office" place type. (50 chars.) */
+"PlaceTypeLocalGovernmentOffice" = "Local Government Office";
+
+/* String representing the "locksmith" place type. (50 chars.) */
+"PlaceTypeLocksmith" = "Locksmith";
+
+/* String representing the "lodging" place type. (50 chars.) */
+"PlaceTypeLodging" = "Lodging";
+
+/* String representing the "meal_delivery" place type. (50 chars.) */
+"PlaceTypeMealDelivery" = "Meal Delivery";
+
+/* String representing the "meal_takeaway" place type. (50 chars.) */
+"PlaceTypeMealTakeaway" = "Meal Takeaway";
+
+/* String representing the "mosque" place type. (50 chars.) */
+"PlaceTypeMosque" = "Mosque";
+
+/* String representing the "movie_rental" place type. (50 chars.) */
+"PlaceTypeMovieRental" = "Movie Rental";
+
+/* String representing the "movie_theater" place type. (50 chars.) */
+"PlaceTypeMovieTheater" = "Movie Theater";
+
+/* String representing the "moving_company" place type. (50 chars.) */
+"PlaceTypeMovingCompany" = "Moving Company";
+
+/* String representing the "museum" place type. (50 chars.) */
+"PlaceTypeMuseum" = "Museum";
+
+/* String representing the "night_club" place type. (50 chars.) */
+"PlaceTypeNightClub" = "Night Club";
+
+/* String representing the "painter" place type. (50 chars.) */
+"PlaceTypePainter" = "Painter";
+
+/* String representing the "park" place type. (50 chars.) */
+"PlaceTypePark" = "Park";
+
+/* String representing the "parking" place type. (50 chars.) */
+"PlaceTypeParking" = "Parking";
+
+/* String representing the "pet_store" place type. (50 chars.) */
+"PlaceTypePetStore" = "Pet Store";
+
+/* String representing the "pharmacy" place type. (50 chars.) */
+"PlaceTypePharmacy" = "Pharmacy";
+
+/* String representing the "physiotherapist" place type. (50 chars.) */
+"PlaceTypePhysiotherapist" = "Physiotherapist";
+
+/* String representing the "plumber" place type. (50 chars.) */
+"PlaceTypePlumber" = "Plumber";
+
+/* String representing the "police" place type. (50 chars.) */
+"PlaceTypePolice" = "Police";
+
+/* String representing the "post_office" place type. (50 chars.) */
+"PlaceTypePostOffice" = "Post Office";
+
+/* String representing the "primary_school" place type. (50 chars.) */
+"PlaceTypePrimarySchool" = "Primary School";
+
+/* String representing the "rv_park" place type. (50 chars.) */
+"PlaceTypeRVPark" = "RV Park";
+
+/* String representing the "real_estate_agency" place type. (50 chars.) */
+"PlaceTypeRealEstateAgency" = "Real Estate Agency";
+
+/* String representing the "restaurant" place type. (50 chars.) */
+"PlaceTypeRestaurant" = "Restaurant";
+
+/* String representing the "roofing_contractor" place type. (50 chars.) */
+"PlaceTypeRoofingContractor" = "Roofing Contractor";
+
+/* String representing the "school" place type. (50 chars.) */
+"PlaceTypeSchool" = "School";
+
+/* String representing the "secondary_school" place type. (50 chars.) */
+"PlaceTypeSecondarySchool" = "Secondary School";
+
+/* String representing the "shoe_store" place type. (50 chars.) */
+"PlaceTypeShoeStore" = "Shoe Store";
+
+/* String representing the "shopping_mall" place type. (50 chars.) */
+"PlaceTypeShoppingMall" = "Shopping Mall";
+
+/* String representing the "spa" place type. (50 chars.) */
+"PlaceTypeSpa" = "Spa";
+
+/* String representing the "stadium" place type. (50 chars.) */
+"PlaceTypeStadium" = "Stadium";
+
+/* String representing the "storage" place type. (50 chars.) */
+"PlaceTypeStorage" = "Storage";
+
+/* String representing the "store" place type. (50 chars.) */
+"PlaceTypeStore" = "Store";
+
+/* String representing the "subway_station" place type. (50 chars.) */
+"PlaceTypeSubwayStation" = "Subway Station";
+
+/* String representing the "supermarket" place type. (50 chars.) */
+"PlaceTypeSupermarket" = "Supermarket";
+
+/* String representing the "synagogue" place type. (50 chars.) */
+"PlaceTypeSynagogue" = "Synagogue";
+
+/* String representing the "taxi_stand" place type. (50 chars.) */
+"PlaceTypeTaxiStand" = "Taxi Stand";
+
+/* String representing the "tourist_attraction" place type. (50 chars.) */
+"PlaceTypeTouristAttraction" = "Tourist Attraction";
+
+/* String representing the "train_station" place type. (50 chars.) */
+"PlaceTypeTrainStation" = "Train Station";
+
+/* String representing the "transit_station" place type. (50 chars.) */
+"PlaceTypeTransitStation" = "Transit Station";
+
+/* String representing the "travel_agency" place type. (50 chars.) */
+"PlaceTypeTravelAgency" = "Travel Agency";
+
+/* String representing the "university" place type. (50 chars.) */
+"PlaceTypeUniversity" = "University";
+
+/* String representing the "veterinary_care" place type. (50 chars.) */
+"PlaceTypeVeterinaryCare" = "Veterinary Care";
+
+/* String representing the "zoo" place type. (50 chars.) */
+"PlaceTypeZoo" = "Zoo";
+
