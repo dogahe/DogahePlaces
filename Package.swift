@@ -25,7 +25,7 @@ let package = Package(
       path: "GooglePlaces",
       sources: ["dummy.m"],
       resources: [
-        .copy("GooglePlaces.bundle")
+        .copy("Resources/GooglePlaces.bundle")
       ],
       publicHeadersPath: "Sources"
     ),
