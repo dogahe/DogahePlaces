@@ -18,9 +18,10 @@ let package = Package(
   targets: [
     // Targets are the basic building blocks of a package. A target can define a module or a test suite.
     // Targets can depend on other targets in this package, and on products in packages this package depends on.
+    .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlaces_3p.xcframework.zip", checksum: "c16e1df42f21228783a13a06e008888322f4f317d1ae0dec54f0d029172138f2"),
     .target(
       name: "GooglePlacesTarget",
-      dependencies: [.target(name: "GooglePlaces")],
+      dependencies: ["GooglePlaces"],
       path: "GooglePlaces",
       sources: ["dummy.m"],
       resources: [
@@ -28,7 +29,6 @@ let package = Package(
       ],
       publicHeadersPath: "Sources"
     ),
-    .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlaces_3p.xcframework.zip", checksum: "c16e1df42f21228783a13a06e008888322f4f317d1ae0dec54f0d029172138f2"),
   ]
 )
 
