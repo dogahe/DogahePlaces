@@ -18,7 +18,7 @@ let package = Package(
   targets: [
     // Targets are the basic building blocks of a package. A target can define a module or a test suite.
     // Targets can depend on other targets in this package, and on products in packages this package depends on.
-    .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlaces_3p.xcframework.zip", checksum: "c16e1df42f21228783a13a06e008888322f4f317d1ae0dec54f0d029172138f2"),
+    .binaryTarget(name: "GooglePlaces", url: "https://dl.google.com/geosdk/swiftpm/8.3.0/GooglePlacesResources.zip", checksum: "fc5539677cdf6c0ce32f04af6f347abdc918f49c5b84a60d6ea90eef058b2ef3"),
     .target(
       name: "GooglePlacesTarget",
       dependencies: ["GooglePlaces"],
@@ -31,23 +31,5 @@ let package = Package(
     ),
   ]
 )
-
-/*
- .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlaces.zip", checksum: "bb4705e64801cf2bfb644c324c73ca3901d5eefadcec34a84d2144592f79edc8"),
- 
- 
- .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlacesWithoutInfoPlist.zip", checksum: "5e472aa190424a21066c260c33f9438e436eebeb7ff13ef24086d43af168b062"),
- 
- .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlacesWithInfoPlist.zip", checksum: "bb4705e64801cf2bfb644c324c73ca3901d5eefadcec34a84d2144592f79edc8"),
- 
- .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlacesWithInfoPlistVersion2.zip", checksum: "7fc95e8145666adabd7826ad49c26e3352b3bf4c30ffc67f1a9c042fa0bf3f17"),
- 
- .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlacesWithInfoPlistVersion3.zip", checksum: "033a35eeed18e2c95de940c9f7ef4fbd3d71ff4b48ddec772cd11f1b2d2e4b64"),
- 
- .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlacesWithoutInfoPlistMinusResources.zip", checksum: "a56106ec3bd91210781c53f3d3247ee0f62f18a59d0e5276c434e6604632b488"),
- 
- .binaryTarget(name: "GooglePlaces", url: "https://github.com/dogahe/DogahePlaces/releases/download/1.0.0/GooglePlacesWithInfoPlistMinusResources.zip", checksum: "a47d5e4cf336d5eb5127332948da08b55773696041f723bb506f85edb3d53c25"),
- */
-
 
 
